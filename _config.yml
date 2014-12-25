@@ -5,4 +5,4 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-	  title: "Test Site - Default Header"
+      title: "Test Site - Default Header"
